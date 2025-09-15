@@ -21,6 +21,13 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1805" height="390" alt="05" src="https://github.com/user-attachments/assets/5bdba61d-b321-43be-a812-f33008e72698" />
 
+## 6. Install Visual Studio Code and Terraform on your PC.
+
+## 7. Paste the AWS environment variables into your terminal window in Visual Studio Code.
+
+<img width="1272" height="364" alt="07 " src="https://github.com/user-attachments/assets/6b494498-4ba0-46cb-b9fa-4038ec9ca920" />
+
+
 
 
 
