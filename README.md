@@ -21,11 +21,18 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1805" height="390" alt="05" src="https://github.com/user-attachments/assets/5bdba61d-b321-43be-a812-f33008e72698" />
 
+<img width="817" height="918" alt="05b" src="https://github.com/user-attachments/assets/4e3e397d-9a83-4a62-ba67-79e931b6c309" />
+
 ## 6. Install Visual Studio Code and Terraform on your PC.
 
 ## 7. Paste the AWS environment variables into your terminal window in Visual Studio Code.
 
 <img width="1272" height="364" alt="07 " src="https://github.com/user-attachments/assets/6b494498-4ba0-46cb-b9fa-4038ec9ca920" />
+
+## 8. Setup a directory and copy into it the Terraform files found in this repository.
+
+## 9. Pick a unique S3 bucket name.  Be sure to use dashes instead of underbars in the name.
+
 
 
 
