@@ -51,7 +51,9 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1476" height="368" alt="13b" src="https://github.com/user-attachments/assets/7507c672-fe5f-4465-9e39-00875e3437be" />
 
+## 14. Go to the URL and verify that the Web site loads.
 
+<img width="750" height="180" alt="14" src="https://github.com/user-attachments/assets/769d9bf6-4326-41ed-96d3-4f04d4e9393a" />
 
 
 
