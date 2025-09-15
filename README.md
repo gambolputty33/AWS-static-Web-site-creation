@@ -45,6 +45,17 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="1653" height="612" alt="12" src="https://github.com/user-attachments/assets/62c847fa-06b9-439d-8300-5fd037c793df" />
 
+## 13. Get the URL for the S3 bucket.
+
+<img width="1508" height="250" alt="13a" src="https://github.com/user-attachments/assets/97882b64-9293-49f6-9548-2d8df5df9c7f" />
+
+<img width="1476" height="368" alt="13b" src="https://github.com/user-attachments/assets/7507c672-fe5f-4465-9e39-00875e3437be" />
+
+
+
+
+
+
 
 
 
