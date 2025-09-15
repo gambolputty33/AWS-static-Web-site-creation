@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Hello World</title>
+  <style>
+    /* Simple, centered layout with responsive text */
+    :root {
+      --bg: #f7f9fc;
+      --fg: #0f1720;
+      --accent: #2563eb;
+    }
+    html,body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      display: grid;
+      place-items: center;
+      background: linear-gradient(180deg, var(--bg), #ffffff);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      color: var(--fg);
+    }
+    .card {
+      text-align: center;
+      padding: 2.25rem;
+      border-radius: 12px;
+      box-shadow: 0 6px 24px rgba(16,24,40,0.08);
+      background: white;
+      max-width: 640px;
+      width: calc(100% - 48px);
+    }
+    h1 {
+      margin: 0 0 0.5rem 0;
+      font-size: clamp(1.5rem, 5vw, 3rem);
+      letter-spacing: -0.02em;
+    }
+    p {
+      margin: 0;
+      color: #334155;
+    }
+  </style>
+</head>
+<body>
+  <main class="card" role="main" aria-labelledby="greeting">
+    <h1 id="greeting">A static Web page.<span class="dot" aria-hidden="true"></span></h1>
+  </main>
+</body>
+</html>
+
