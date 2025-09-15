@@ -37,4 +37,14 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 ## 10. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the S3 bucket.
 
+<img width="1238" height="254" alt="10" src="https://github.com/user-attachments/assets/f036c360-b68a-44c8-b316-93bbe81bb1ad" />
+
+
+
+
+
+
+
+
+
 
