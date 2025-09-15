@@ -55,10 +55,11 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="750" height="180" alt="14" src="https://github.com/user-attachments/assets/769d9bf6-4326-41ed-96d3-4f04d4e9393a" />
 
+## 15. Once verified, delete the index.html file.
 
+<img width="1491" height="369" alt="15" src="https://github.com/user-attachments/assets/bbddd66a-584e-49d4-9ef8-81bd933e87c5" />
 
+## 16. Use the "terraform destroy" command to delete the S3 bucket.
 
-
-
-
+<img width="1149" height="368" alt="16" src="https://github.com/user-attachments/assets/44b156dd-69cd-49c9-b9d2-c5bdc2955f1d" />
 
