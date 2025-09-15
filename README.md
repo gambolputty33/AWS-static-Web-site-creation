@@ -17,3 +17,10 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="392" height="417" alt="04" src="https://github.com/user-attachments/assets/0dea12af-fff0-4da9-b4f0-38beb6f34151" />
 
+## 5.  Select "AdministratorAccess" if you need to perform manual tasks within AWS.  Select "Access keys" to copy the AWS environment variables to the clipboard.
+
+<img width="1805" height="390" alt="05" src="https://github.com/user-attachments/assets/5bdba61d-b321-43be-a812-f33008e72698" />
+
+
+
+
