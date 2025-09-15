@@ -41,9 +41,9 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 ## 11. Upload the index.html file from this repository to the new S3 bucket.
 
+## 12. Select the "Make public using ACL" option for the index.html file.
 
-
-
+<img width="1653" height="612" alt="12" src="https://github.com/user-attachments/assets/62c847fa-06b9-439d-8300-5fd037c793df" />
 
 
 
