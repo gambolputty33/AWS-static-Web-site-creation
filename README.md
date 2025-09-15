@@ -13,4 +13,7 @@ https://www.youtube.com/watch?v=ne8LrbCzW0Q
 
 https://www.youtube.com/watch?v=_KhrGFV_Npw
 
+## 4. Login as the non-root user.
+
+<img width="392" height="417" alt="04" src="https://github.com/user-attachments/assets/0dea12af-fff0-4da9-b4f0-38beb6f34151" />
 
