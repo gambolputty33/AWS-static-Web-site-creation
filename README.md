@@ -33,8 +33,8 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 ## 9. Pick a unique S3 bucket name.  Be sure to use dashes instead of underbars in the name.
 
+<img width="575" height="242" alt="09" src="https://github.com/user-attachments/assets/23721c75-3cc6-413d-8d24-163a569ad67c" />
 
-
-
+## 10. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the S3 bucket.
 
 
