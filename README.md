@@ -35,31 +35,33 @@ https://www.youtube.com/watch?v=_KhrGFV_Npw
 
 <img width="575" height="242" alt="09" src="https://github.com/user-attachments/assets/23721c75-3cc6-413d-8d24-163a569ad67c" />
 
-## 10. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the S3 bucket.
+## 10. Create a project directory in Visual Studio Code and copy the files from this repository into it.
+
+## 11. Use the "terraform init", "terraform plan", and "terraform apply" commands to deploy the S3 bucket.
 
 <img width="1238" height="254" alt="10" src="https://github.com/user-attachments/assets/f036c360-b68a-44c8-b316-93bbe81bb1ad" />
 
-## 11. Upload the index.html file from this repository to the new S3 bucket.
+## 12. Upload the index.html file from this repository to the new S3 bucket.
 
-## 12. Select the "Make public using ACL" option for the index.html file.
+## 13. Select the "Make public using ACL" option for the index.html file.
 
 <img width="1653" height="612" alt="12" src="https://github.com/user-attachments/assets/62c847fa-06b9-439d-8300-5fd037c793df" />
 
-## 13. Get the URL for the S3 bucket.
+## 14. Get the URL for the S3 bucket.
 
 <img width="1508" height="250" alt="13a" src="https://github.com/user-attachments/assets/97882b64-9293-49f6-9548-2d8df5df9c7f" />
 
 <img width="1476" height="368" alt="13b" src="https://github.com/user-attachments/assets/7507c672-fe5f-4465-9e39-00875e3437be" />
 
-## 14. Go to the URL and verify that the Web site loads.
+## 15. Go to the URL and verify that the Web site loads.
 
 <img width="750" height="180" alt="14" src="https://github.com/user-attachments/assets/769d9bf6-4326-41ed-96d3-4f04d4e9393a" />
 
-## 15. Once verified, delete the index.html file.
+## 16. Once verified, delete the index.html file.
 
 <img width="1491" height="369" alt="15" src="https://github.com/user-attachments/assets/bbddd66a-584e-49d4-9ef8-81bd933e87c5" />
 
-## 16. Use the "terraform destroy" command to delete the S3 bucket.
+## 17. Use the "terraform destroy" command to delete the S3 bucket.
 
 <img width="1149" height="368" alt="16" src="https://github.com/user-attachments/assets/44b156dd-69cd-49c9-b9d2-c5bdc2955f1d" />
 
